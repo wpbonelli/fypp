@@ -7,7 +7,7 @@ Fypp — Python powered Fortran metaprogramming
 
 Fypp is a Python powered preprocessor. It can be used for any programming
 languages but its primary aim is to offer a Fortran preprocessor, which helps to
-extend Fortran with condititional compiling and template metaprogramming
+extend Fortran with conditional compiling and template metaprogramming
 capabilities. Instead of introducing its own expression syntax, it uses Python
 expressions in its preprocessor directives, offering the consistency and
 versatility of Python when formulating metaprogramming tasks. It puts strong
@@ -189,7 +189,7 @@ issuing ::
 Installing via pip
 ------------------
 
-You can also use Pythons command line installer ``pip`` in order to download the
+You can also use ``pip`` in order to download the
 stable release from the `Fypp page on PyPI <http://pypi.python.org/pypi/fypp>`_
 and install it on your system.
 
